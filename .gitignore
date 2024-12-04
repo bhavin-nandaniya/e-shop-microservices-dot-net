@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/srs/Services/Discount/Discount.Grpc/discountdb
+/srs/Services/Discount/Discount.Grpc/discountdb-shm
+/srs/Services/Discount/Discount.Grpc/discountdb-wal
